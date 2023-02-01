@@ -6,3 +6,4 @@ import "module-name/internal/package-folder"
 ```
 
 Make sure to use the package folder, not any specific file.
+Folder internal should be protected by go from external import.
